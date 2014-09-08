@@ -3,11 +3,19 @@
 *.lo
 *.o
 *.obj
+*.lastbuildstate
+*.pch
+*.tlog
+*.idb
+*.ipch
+*.sdf
+
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
-*.dll
+*.lib
+*.ilk
+
 
 # Compiled Static libraries
 *.lai
