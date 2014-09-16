@@ -1,0 +1,6 @@
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\bin\Debug\CSharpDemo.exe.config
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\bin\Debug\CSharpDemo.exe
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\bin\Debug\CSharpDemo.pdb
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\obj\Debug\CSharpDemo.exe
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\obj\Debug\CSharpDemo.pdb
+E:\RefCode\C#\InvokeC++DLL\CSharpDemo\obj\Debug\CSharpDemo.csprojResolveAssemblyReference.cache
