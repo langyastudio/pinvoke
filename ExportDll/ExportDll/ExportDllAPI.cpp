@@ -4,11 +4,13 @@
 /************************************************************************/
 /*                          1. 调用约定                                   */
 /************************************************************************/
+//1.1 标准调用约定
 EXPORTDLL_API void _stdcall CallingCvt_Stdcall()
 {
 	wprintf(L"CallingCvt_Stdcall\n");
 }
 
+//1.2 C调用约定
 EXPORTDLL_API void _cdecl CallingCvt_Cdecl()
 {
 	wprintf(L"CallingCvt_Cdecl\n");

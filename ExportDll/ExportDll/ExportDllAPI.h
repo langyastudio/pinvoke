@@ -64,6 +64,7 @@ typedef struct _testStru1
 EXPORTDLL_API  void Struct_Change(testStru1 *pStru);
 
 //4.2 结构体边界对齐
+#pragma pack(push)
 #pragma pack(1)
 typedef struct _testStru2
 {
@@ -71,7 +72,7 @@ typedef struct _testStru2
 	char	cVal;
 	__int64 llVal;
 }testStru2;
-#pragma pack()
+#pragma pack(pop)
 EXPORTDLL_API  void Struct_PackN(testStru2 *pStru);
 
 //4.3 结构体中含有内置数据类型的数组
