@@ -1,6 +1,9 @@
 Some examples of using P/Invoke ，C# P Invoke C++
 
-包含以下内容：
+#### 文档
+[在线文档](https://langyastudio.blog.csdn.net/article/category/9271302)
+
+#### 包含以下内容：
 - 调用约定
 - 函数指针/回调函数
 - 平台调用P/Invoke 字符串
