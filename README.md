@@ -1,6 +1,6 @@
 Some examples of using P/Invoke ，C# P Invoke C++
 
-[在线文档](https://blog.csdn.net/aoshilang2249/category_2444311.html)
+[在线文档](https://blog.csdn.net/aoshilang2249/category_9271302.html)
 
 #### 包含以下内容：
 - 调用约定
